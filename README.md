@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 I’m currently learning frontend development (HTML/CSS, JavaScript, React) to pivot into tech.
+
+📫 How to reach me:
+📧 Email: dankooo@gmail.com
+💡 LinkedIn: https://www.linkedin.com/in/yordan-dimitrov-446105315/ 
+
 <!--
 **JordanDim/JordanDim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
